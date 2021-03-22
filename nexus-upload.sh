@@ -6,7 +6,7 @@ function print_if_success {
 		printf "%25s\n" "SUCCESS"
 		return 0
 	else
-		return 1
+		return 3
 	fi
 }
 
